@@ -10,7 +10,7 @@
 
 
 
-### PLANTEAMINETO DEL PROBLEMA:
+### PLANTEAMIENTO DEL PROBLEMA:
 
 El principal enfoque de este proyecto es buscar una forma de crecimiento para el nuevo negocio de chaquetas lo cual nos llevó a realizar las siguientes preguntas:
 
