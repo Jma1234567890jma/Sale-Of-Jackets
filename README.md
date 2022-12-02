@@ -57,4 +57,4 @@ Como objetivos específicos tenemos los siguientes:
 + Presentar un servicio eficaz. 
 
 ### JUSTIFICACIÓN:
-Este proyecto se creará con el fin de ofrecer un producto a los usuarios de forma virtual, facilitando así su accesibilidad a la hora de conseguir nuevas prendas, ya que este será un medio de publicidad para atraer nuevos clientes, pues que nos encontramos en un sistema donde los mercados digitales poco a poco se van incrementando, así empezar a crecer desde ahora y expandir mi negocio a través de un sitio web.
+Este proyecto se creará con el fin de ofrecer un producto a los usuarios de forma virtual, facilitando así su accesibilidad a la hora de conseguir nuevas prendas, ya que este será un medio de publicidad para atraer nuevos clientes, ya que nos encontramos en un sistema donde los mercados digitales poco a poco se van incrementando, así empezar a crecer desde ahora y expandir mi negocio a través de un sitio web.
